@@ -1,0 +1,48 @@
+https://www.panstar.co.kr/
+
+<div id="wrap">
+<header id="header" class="header">
+<div id="top-bar" class="top-bar">
+<ul class="family-list">
+<li class"item">
+<a href="http://www.panstartechsolution.com/" class="item-link" target="_blank">팬스타테크솔루션</a>
+
+
+<div id="full-nav-mask" class="full-nav-mask">
+<section class=''SEC-MAIN-BUSINESS">
+ <div class="inner">
+  <h2 class="m-tt">
+    business area
+  </h2>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <footer id="footer" class="footer">
+ <div class="ft-family-list" class="ft-family-list">
+  <button class="" aria-label-"" type="" style="">::before"previous"</button>
+                                                                                                       
+ 메인상단
+<selcetion class="main-visual">
+메인상단 텍스트
+<div class='vis-content'>
+  <div class='inner'>
+      <div class='vis-txt>
+           <h2 class='tt'>
+               <span class='aria'>create new values</strong>
+                 <h2>
+
+
+
+메인상단 버튼
+<div class='main-reserve-wrap'>
+ <a href='www.dfdf.com' class='link'>
+  <i class='icon'>
+     <img src='아이콘 링크' alt='국제튿송 예약조회'>
+         <p>국제튿송 예약조회</p>
+
+
+
+
+
+비디오: https://www.panstar.co.kr/src/video/visual.mp4
+
+
+
+    
